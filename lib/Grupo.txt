@@ -1,0 +1,9 @@
+Sistemas de Computação Móvel - Trabalho V1
+
+TEMA: Aplicativo de vendas de figurinhas da copa
+GRUPO:
+  Bernardo Caixeta
+  Daniel Veloso
+  Henrique Sousa
+  Matheus Henrique
+  Miguel Alves
