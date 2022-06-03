@@ -1,6 +1,6 @@
-# interdisciplinar
+# interdisciplinar - App de Figurinhas da Copa
 
-A new Flutter project.
+Alunos: Bernardo Caixeta, Daniel Veloso, Henrique Sousa, Matheus Henrique e Miguel Alves
 
 ## Getting Started
 
